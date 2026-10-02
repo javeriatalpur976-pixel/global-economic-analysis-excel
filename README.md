@@ -66,6 +66,10 @@ It includes:
 * Average GDP Growth vs Inflation
 * Country slicer for interactive filtering
 
+* ![Global Economic Analysis Dashboard](dashboard.png)
+* <img width="1431" height="740" alt="image" src="https://github.com/user-attachments/assets/6263943c-ee4c-4c44-87a5-e94f78ea8174" />
+
+
 ## 🧹 Data Preparation
 
 The original World Bank dataset was provided in a wide format with separate columns for each year.
